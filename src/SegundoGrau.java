@@ -14,6 +14,7 @@ public class SegundoGrau {
 			}
 		}else{
 			System.out.println("Não Existe Raiz Real");
+			
 		}
 	}
 	public static double[] Calcula(double [] d) {
