@@ -4,7 +4,6 @@ import org.junit.Test;
 
 public class SegundoGrauTest {
 	@Test
-	
 	public void DeltaPositivo() throws Exception{
 		double delta=SegundoGrau.Delta(new double[] {1,2,-3});
 		assertEquals(16,delta,0);
